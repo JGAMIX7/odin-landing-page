@@ -169,6 +169,11 @@ header nav .nav-links{
 /* ##### SIGN-UP SECTION ##### */
 
 /* ##### FOOTER SECTION ##### */
-
-
-
+footer{
+  background-color: #1F2937;
+  text-align: center;
+  padding: 30px 100px;
+}
+footer p {
+  font-size: 16px;
+}
