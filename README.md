@@ -6,4 +6,4 @@ Technologies used :
 - CSS (flexbox)
 - The page are not responsive
 
-Live Demo : jgamix7.github.com/odin-landing-page/
+Live Demo : https://jgamix7.github.io/odin-landing-page/
